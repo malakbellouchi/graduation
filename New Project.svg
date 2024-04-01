@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 856" width="1640" height="856">
+	<title>New Project</title>
+	<defs>
+		<image  width="1640" height="856" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmgAAANYAQMAAAD69fCRAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAA6tJREFUeJztzwEJADAMwLDPv+mbGDycRkE75yfzOmBVN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduLpxdePqxtWNqxtXN65uXN24unF14+rG1Y2rG1c3rm5c3bi6cXXj6sbVjasbVzeublzduC7opQNZfWfZ/QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff;stroke: #000000;stroke-linejoin: round;stroke-width: 15 } 
+		.s1 { fill: #000000 } 
+		.t2 { font-size: 150px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" class="s0" d="m0 0.1l1640 3.8-2 855.9-1640-3.7z"/>
+	<path id="Shape 2" class="s1" d="m13.1 15.9l2.3-4.4 1625.8 842.3-2.4 4.4z"/>
+	<path id="Shape 3" class="s1" d="m10.9 842.4l-2.3-4.4 1618.5-820.5 2.3 4.4z"/>
+	<text id="IMG" style="transform: matrix(1.668,0,0,1.668,308.484,518.795)" >
+		<tspan x="-144.9" y="0" class="t2">I</tspan><tspan  y="0" class="t2">M</tspan><tspan  y="0" class="t2">G</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
