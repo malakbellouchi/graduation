@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <title>Wireframe</title>
-
+    <!-- beginning of CSS  -->
     <style>
         * {
             font-family: sans-serif;
@@ -21,14 +21,14 @@
             padding: 6px 1px;
         }
         .login{
-            display: flex;
             align-items: center;
+            display: flex;
             justify-content: center;
         }
         .login a{
-            text-decoration: none;
             color: black;
             padding: 4px 17px;
+            text-decoration: none;
         }
         .login .get{
             border: solid 2px;
@@ -38,9 +38,9 @@
             border: solid 1.5px;
         }
         main .txt{
+            align-items: center;
             display: flex;
             justify-content: space-around;
-            align-items: center;
             padding: 6px;
         }
         section{
@@ -49,26 +49,26 @@
         .first{
             border: solid 3px;
             font-size: 17px;
-            padding: 3px 4px 5px ;
             font-weight: 500;
+            padding: 3px 4px 5px ;
         }
         .image{
             border: solid 3px;
-            margin: 2% 0;
-            padding: 7%;
+            border-radius: 3% ;
             font-size: 40px;
             font-weight: 300;
-            border-radius: 3% ;
+            margin: 2% 0;
+            padding: 7%;
         }
         section p{
             border: solid 2px;
-            padding: 3px 3px 11px;
             font-size: 13px;
             font-weight: 300;
+            padding: 3px 3px 11px;
         }
         section h2{
-            padding: 7px;
             font-weight: 300;
+            padding: 7px;
         }
         .more{
             display: flex;
@@ -80,35 +80,40 @@
             padding: 3px 5px;
         }
         footer{
-            display: flex;
-            justify-content: space-between;
             align-items: center;
-            padding: 5px ;
-            margin: 8px 24px;
+            display: flex;
             font-size: 12px;
             font-weight: 300;
+            justify-content: space-between;
+            margin: 8px 24px;
+            padding: 5px ;
         }
         footer .foot{
             border: solid 2px;
             padding: 2px 16px;
         } 
         footer .ft a{
-            text-decoration: none;
             color: black;
-            padding: 20px;
-            
+            padding: 20px; 
+            text-decoration: none;
         }
     </style>
+    <!-- end of CSS -->
 </head>
 <body>
+    <!-- beginning of header -->
     <header>
         <div class="logo">home</div>
         <div class="login">
-            <a href="#">Sign in</a>
-            <a href="#" class="get">Get started</a>
+            <a href="#" target="_blank">Sign in</a>
+            <a href="#" target="_blank" class="get">Get started</a>
         </div>
     </header>
+    <!-- end of header -->
+
+    <!-- beginning of main content -->
     <main>
+        <!-- beginning of navigation -->
         <nav>
             <hr>
             <div class="txt">
@@ -120,6 +125,9 @@
             </div>
             <hr>
         </nav>
+        <!-- end of navigation -->
+        
+        <!-- beginning of section content -->
         <section>
             <p class="first">Lorem ipsum dolor: sit amet,consectetur adipiscing elit, sed do</p>
             <div class="image">img</div>
@@ -155,14 +163,18 @@
                 </div>
             </div>
         </section>
+        <!-- end of section content -->
     </main>
+    <!-- end of main content -->
     <hr>
+    <!-- beginning of footer -->
     <footer>
         <div class="foot">home icon</div>
         <div class="ft">
-            <a href="#">About</a>
-            <a href="#">Help</a>
+            <a href="#" target="_blank">About</a>
+            <a href="#" target="_blank">Help</a>
         </div>
     </footer>
+    <!-- end of footer -->
 </body>
 </html>
